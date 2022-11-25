@@ -50,13 +50,35 @@ body{
 
 .img-logo > .logo {
     display: flex;
-    background: rgba(69, 255, 13, 0.671);
+    background: rgba(69, 255, 13, 10);
     position: fixed;
     width: 389px;
     height: 40px;
     align-items: center;
     justify-content: center;
     color: rgb(0, 0, 0);
+    margin-TOP: 80px;
+    font-family: VT323;
+    font-size: 40px;
 }
 
 
+.sign-up-area{
+background-color: rgb(226, 217, 217);  
+width: 480px;
+}
+
+.welcome-box{
+    height: 270px;
+    background-color: blue;
+}
+
+.sign-up-form{
+    height: 270px;
+    background-color: rgb(167, 32, 145);
+}
+
+.sign-in-footer{
+    height: 210px;
+    background-color: rgb(221, 185, 94)
+}
